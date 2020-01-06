@@ -3,7 +3,7 @@ import Directory  from '../../components/directory/Directory'
 
 import './Homepage.scss'
 
-const Homepage = () => {
+const Homepage = ({history}) => {
     return (
       <div className='Homepage'>
         <Directory />
