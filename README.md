@@ -8,7 +8,6 @@ To run the environment:
 The server is running on port 3000 localhost in development mode.
 
 # Client
-CD into to the client and install its dependencies.
 
 ## Installing
 Go to the terminal and enter this script:
