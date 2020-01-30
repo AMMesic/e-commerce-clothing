@@ -1,6 +1,6 @@
 # e-commerce
-## A webshop using React with firebase. Still under work.
-Application with statistics and livescore data with focus mainly on football. 
+## A webshop using React with firebase
+This is a webshop ongoing project using a udemy course. Using React and Sass on client-side with firebase Authentication and database.
 
 To run the environment:
 ### `npm run dev`
